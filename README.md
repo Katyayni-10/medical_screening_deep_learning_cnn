@@ -10,10 +10,7 @@ A collection of deep learning projects applying Convolutional Neural Networks (C
 ```
 medical-imaging-cnn/
 ├── brain_tumor_classification/
-│   ├── model.h5 / model.pt      # trained CNN weights
-│   ├── app.py                    # Streamlit app
-│   ├── train.py                  # training script
-│   └── README.md
+│   └── train.py
 ├── eye_disease_classification/
 ├── chest_pneumonia_detection/
 ├── eeg_seizure_detection/
